@@ -1,0 +1,2 @@
+Sentinel file. Prevents an external substrate sync hook from
+mirroring unrelated methodology into this repo. Do not delete.
