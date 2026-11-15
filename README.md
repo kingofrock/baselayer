@@ -7,6 +7,10 @@ definitions that make AI coding agents less frantic and more
 deliberate — pulled from real work on real systems, curated for
 re-use.
 
+> **See also: [bassclef](https://bassclef.dev)** — a disciplined agent
+> team for solo builders and small crews, with gates that block, not
+> just advise.
+
 ## What this is
 
 Four kinds of content, each addressing a different layer of how
